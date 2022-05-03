@@ -3,7 +3,17 @@ Desafio feito com algumas modificações do template original.
 <br>
 <br>
 <br>
-<a href="https://imgur.com/a/Rh0Fc7y">Preview do template feito com base no desafio. </a>
+
+# Preview
+
+-Desktop
+
+![img-desktop](https://i.imgur.com/CsqTzif.png)
+
+- Mobile 
+ 
+![img-mobile](https://i.imgur.com/BqoyKkJ.png)
+
 <br>
 <br>  
    
